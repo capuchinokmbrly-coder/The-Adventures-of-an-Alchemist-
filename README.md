@@ -1,6 +1,6 @@
 # The-Adventures-of-an-Alchemist-
 
-Preview: TAoaA is a turn - based, python game that tackles a short story revolving around Guita, a healing mage.
+Preview: TAoaA is a turn - based, RPG python game that tackles a short story revolving around Guita, a healing mage.
 
 This story was loosely inspired by Fairy Tail by Hiro Mashima and Apothecary Diaries by Natsu Hyuga.
 
